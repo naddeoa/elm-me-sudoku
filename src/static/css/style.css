@@ -1,0 +1,43 @@
+
+
+.symbol {
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px #dedede solid;
+}
+
+.symbol-1 {
+    background-image: url("../img/symbol-1.png");
+}
+
+.symbol-2 {
+    background-image: url("../img/symbol-2.png");
+}
+.symbol-3 {
+    background-image: url("../img/symbol-3.png");
+}
+.symbol-4 {
+    background-image: url("../img/symbol-4.png");
+}
+.symbol-5 {
+    background-image: url("../img/symbol-5.png");
+}
+
+.group-0 {
+    background-color: lightcyan;
+}
+
+.group-1 {
+    background-color: lightgoldenrodyellow;
+}
+.group-2 {
+    background-color: lightsalmon;
+}
+.group-3 {
+    background-color: #dcdcdc;
+}
+.group-4 {
+    background-color: antiquewhite;
+}
